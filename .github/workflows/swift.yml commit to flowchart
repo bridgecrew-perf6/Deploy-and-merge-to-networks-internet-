@@ -2,7 +2,7 @@ name: Swift
 
 on:
   push:
-    branches: [ main ]
+    branches: [ banks ]
   pull_request:
     branches: [.encryption and recieving route#125000105 ]
 
